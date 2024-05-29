@@ -1,5 +1,5 @@
 # Masters-Thesis
-A Jupyter Notebook on Machine Learning and Regression - A Housing Problem
+A Jupyter Notebook on Machine Learning and House Pricing - A Regression Problem
 
 
 The purpose of this essay is to analyse a housing dataset using advanced machine learning algorithms. The dataset contains information from the AMES Assessor’s Office used in computing assessed values
